@@ -1,0 +1,13 @@
+{
+  "name": "arquestra-audit",
+  "version": "0.8.1",
+  "description": "Check your own data before you publish a result from it: an audit of a data file with one red, amber or green light per figure. Your data never leaves your browser or computer.",
+  "author": {
+    "name": "Arquestra",
+    "url": "https://arquestra.dev"
+  },
+  "homepage": "https://arquestra.dev/assets/audit",
+  "repository": "https://github.com/pablo-ramossanchez/arquestra-audit-mcp",
+  "license": "Proprietary",
+  "mcpServers": "./mcp.json"
+}

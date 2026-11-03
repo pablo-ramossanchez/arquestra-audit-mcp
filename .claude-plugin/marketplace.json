@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "arquestra",
+  "description": "Arquestra: checkable data assets on public procurement and AI governance (arquestra.dev)",
+  "owner": {
+    "name": "Arquestra",
+    "url": "https://arquestra.dev"
+  },
+  "plugins": [
+    {
+      "name": "arquestra-audit",
+      "description": "Check your own data before you publish a result from it: an audit of a data file with one red, amber or green light per figure. Your data never leaves your browser or computer.",
+      "category": "productivity",
+      "source": "./arquestra",
+      "homepage": "https://arquestra.dev/assets/audit"
+    }
+  ]
+}

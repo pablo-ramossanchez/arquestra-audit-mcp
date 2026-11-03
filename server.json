@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pablo-ramossanchez/arquestra-audit",
+  "title": "Arquestra Audit",
+  "description": "Audit a data file before publishing: one light per figure. Your data never reaches the server.",
+  "repository": {
+    "url": "https://github.com/pablo-ramossanchez/arquestra-audit-mcp",
+    "source": "github"
+  },
+  "version": "0.8.1",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://arquestra.dev/api/mcp/audit"
+    }
+  ]
+}

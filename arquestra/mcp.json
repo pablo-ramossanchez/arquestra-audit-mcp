@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "arquestra-audit": {
+      "type": "http",
+      "url": "https://arquestra.dev/api/mcp/audit"
+    }
+  }
+}
